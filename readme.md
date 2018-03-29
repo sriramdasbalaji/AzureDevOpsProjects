@@ -62,7 +62,7 @@ The Azure DevOps Project presents a simplified experience which creates Azure re
    The **Azure DevOps project** automatically configures a CI build and release trigger. You're now ready to collaborate with a team on a Java app with a CI/CD process that automatically deploys your latest work to your web site.
 
 
-## Exercise 2: examine the VSTS CI/CD pipelines configured by Azure DevOps Project
+## Exercise 2: Examine the VSTS CI/CD pipelines configured by Azure DevOps Project
 
   The Azure DevOps project automatically configured a full VSTS CI/CD pipeline in your VSTS account. Explore and customize the pipeline as needed. Follow the steps below to familiarize yourself with the VSTS build and release definitions.
 
