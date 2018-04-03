@@ -1,4 +1,4 @@
-# Create a CI/CD pipeline for Java with the Azure DevOps Project
+# Create a CI/CD pipeline for .NET with the Azure DevOps Project
 
 ## Overview
 
