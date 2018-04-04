@@ -7,8 +7,8 @@ The **Azure DevOps Project** presents a simplified experience which creates Azur
 ## What's covered in this lab?
 
  In this lab, you will
-* create new VSTS accont with ASP.NET sample using **Azure DevOps Project** feature in Azure
-* examine the CI/CD pipelines configured by **Azure DevOps Project**
+* Create new VSTS accont with ASP.NET sample using **Azure DevOps Project** feature in Azure
+* Examine the CI/CD pipelines configured by **Azure DevOps Project**
 * Commit the code changes and execute CI/CD
 * Configure Azure Application Insights monitoring
 
